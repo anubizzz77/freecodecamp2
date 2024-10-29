@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.5;
   text-align: center;
-  color: #333;
+  color: #0c253a;
   margin: 0;
 }
 
@@ -85,7 +85,7 @@ figure {
 #img-caption {
   display: block;
   font-style: italic;
-  color: #666;
+  color: rgb(102, 102, 102);
   margin: 15px 0 5px 0;
 }
 
@@ -95,7 +95,7 @@ figure {
 
 #tribute-link {
   cursor: pointer; 
-  color: #74638f;
+  color: #563c81;
   text-decoration: underline;
 }
 
