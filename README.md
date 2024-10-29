@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](tributepage2.PNG)
+[Live Demo Link](https://anubizzz77.github.io/freecodecamp2/)
 
 ## Getting Started
 
